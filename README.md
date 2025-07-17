@@ -1,7 +1,8 @@
 
 # MyHackerRank
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20HackerRank%20Journey&fontSize=30&fontAlign=center)
+![My HackerRank Journey](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=F7941E&center=true&vCenter=true&width=1000&lines=Welcome+to+My+HackerRank+Journey!;Solving+Java+Problems+One+by+One+%F0%9F%92%BB;Tracking+my+Progress+%F0%9F%93%9D;Second+Year+Computer+Engineering+Student)
+
 
 ---
 
