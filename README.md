@@ -9,7 +9,7 @@
 <!-- Introduction -->
 ## 👩‍💻 About Me
 
-🎓 I'm a 2nd Year Computer Engineering student at Cummins College of Engineering, passionate about Java programming and solving coding challenges.  
+🎓 I'm a 2nd Year Computer Engineering student, passionate about Java programming and solving coding challenges.  
 💡 This repository is where I share my progress on HackerRank and keep track of all my Java challenges.
 
 ---
